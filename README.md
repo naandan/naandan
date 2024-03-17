@@ -2,6 +2,8 @@
 
 Saya Nandan, seorang software developer dari 🇮🇩 Indonesia. Saya suka coding dan membangun hal-hal yang membuat hidup orang lebih mudah. Sebagian besar waktu saya digunakan untuk bekerja dengan Python, PHP, dan Javascript, menggunakan berbagai framework untuk membuat aplikasi front-end dan back-end seperti [Laravel](https://laravel.com), [Django](https://www.djangoproject.com), [React](https://react.dev), [Next.js](https://nextjs.org). Saya tertarik dengan website dan proyek open source 🚀
 
+[![An image of @nandaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandaan)](https://holopin.io/@nandaan)
+
 ## Statistik
 
 <p>
