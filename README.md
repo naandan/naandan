@@ -6,9 +6,6 @@ Saya Nandan, seorang software developer dari 🇮🇩 Indonesia. Saya suka codin
 
 ## Statistik
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naandan&layout=compact&hide_border=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naandan&show_icons=true&hide_border=true&theme=tokyonight)
-
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=naandan&layout=compact&hide_border=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naandan&layout=compact&hide_border=true&theme=tokyonight" alt="Bahasa yang Paling Sering Digunakan" height="160"/>
