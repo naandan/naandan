@@ -2,8 +2,6 @@
 
 Saya Nandan, seorang software developer dari 🇮🇩 Indonesia. Saya suka coding dan membangun hal-hal yang membuat hidup orang lebih mudah. Sebagian besar waktu saya digunakan untuk bekerja dengan Python, PHP, dan Javascript, menggunakan berbagai framework untuk membuat aplikasi front-end dan back-end seperti [Laravel] (https://laravel.com), [Django] (https://www.djangoproject.com), [React] (https://react.dev), [Next.js] (https://nextjs.org). Saya tertarik dengan website dan proyek open source 🚀
 
-[![An image of @naandan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naandan)](https://holopin.io/@naandan)
-
 ## Statistics
 
 <p>
@@ -32,4 +30,4 @@ Saya Nandan, seorang software developer dari 🇮🇩 Indonesia. Saya suka codin
 
 ## Support Saya
 
-<a href="https://saweria.co/nandanrmdni" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" alt="Saweria" /></a>
+<a href="https://saweria.co/nandanrmdni" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Saweria" /></a>
