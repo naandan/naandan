@@ -1,16 +1,15 @@
-### Hi there 👋
+### Statistik GitHub
 
-<!--
-**naandan/naandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=naandan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Bahasa yang Paling Sering Digunakan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=naandan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Aktivitas GitHub Terbaru
+
+<!--START_SECTION:activity-->
+1. 🎉 Membuka pull request ke [repo1](https://github.com/naandan/naadan)
+2. 💼 Membuka issue di [repo2](https://github.com/naandan/naandan)
+3. ⭐️ Membuka pull request di [repo3](https://github.com/naandan/naandan)
+<!--END_SECTION:activity-->
