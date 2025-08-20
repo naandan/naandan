@@ -40,7 +40,7 @@ Hi everyone! 👋 I'm Nandan, a coder from Indonesia 🇮🇩 who sometimes migh
 
 ## Follow Me
 
-<a href="https://www.instagram.com/nandaan._" target="_blank">
+<a href="https://www.instagram.com/nandanrmdni" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-125688?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.twitter.com/nandaaann" target="_blank">
